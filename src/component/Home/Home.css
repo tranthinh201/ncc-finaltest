@@ -7,6 +7,10 @@
     position: relative;
 }
 
+header > img {
+    padding: 20px 0;
+}
+
 .text {
     background: #EFEFEF;
     text-align: center;
