@@ -1,0 +1,22 @@
+.sidebar {
+    height: 100vh;
+    background: #191718;
+    width: 10%;
+}
+
+.sidebar > ul > li {
+    list-style: none;
+    color: #AAAA;
+    padding: 18px 20px;
+    border-bottom: 1px solid #5C5C5C;
+    font-weight: 600;
+}
+
+.sidebar > ul >li:first-child {
+    color: #FFFF;
+}
+
+.sidebar > ul > li:hover {
+    background: #5C5C5C;
+    color: #FFFF;
+}
